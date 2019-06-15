@@ -1,0 +1,20 @@
+{
+  "name": "download-retry",
+  "version": "0.0.1",
+  "description": "download support retry without using 3rd module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "download",
+    "retry"
+  ],
+  "author": "mocmeo19",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "mime-types": "^2.1.24",
+    "proxy-agent": "^3.1.0"
+  }
+}
